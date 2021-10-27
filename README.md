@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Livcodes234
+- 👋 Hi, I’m Liv
 - 👀 I’m interested in C++ 
 - 🌱 I’m currently learning Video Game Design 
 - 💞️ I’m looking to collaborate on Game engine code 
