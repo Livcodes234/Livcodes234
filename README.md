@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Liv
 - 👀 I’m interested in C++ 
-- 🌱 I’m currently learning Video Game Design 
+- 🌱 I’m currently learning Video Game Design and python 
 - 💞️ I’m looking to collaborate on Game engine code 
 - 📫 How to reach me 
 
